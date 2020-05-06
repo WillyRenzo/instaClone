@@ -1,0 +1,21 @@
+Bibliotecas usadas
+
+Yarn add mongoose (Para fazer a conexão com o MongoDB)
+Yarn add multer (Para lidar com os multipart-form data)
+Yarn add nodemon (Para fazer o servidor atualizar sozinho apos alterações)
+yarn add sharp (Permite manipular imagens)
+yarn add cors (Basicamente, torna o back end acessivel ao front end mesmo em dominios diferentes)
+yarn add socket.io
+yarn add axios 
+yarn add socket.io-client
+npm install -g react-native-cli
+yarn add react-navigation react-native-gesture-handler
+react-native link react-native-gesture-handler
+yarn add react-navigation-stack 
+yarn add @react-native-community/masked-view
+yarn add react-native-safe-area-context
+yarn add react-native-screens
+yarn add react-native-image-picker (Trabalha com o manuseamento das imagens na galeria)
+
+Para fazer o metro blunder voltar
+react-native start com o app aberto no emulador!
